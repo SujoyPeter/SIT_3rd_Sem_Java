@@ -1,7 +1,9 @@
 package oops;
-public class HyraricalInheritance {
+
+public class HybridInheritance {
+
 	public static void main(String[] args) {
-//		Son ab = new Son();
+		Son ab = new Son();
 //		ab.fshow();
 //		ab.sshow();
 //		ab.show();
@@ -10,4 +12,5 @@ public class HyraricalInheritance {
 		sb.show();
 		sb.gshow();
 	}
+
 }
